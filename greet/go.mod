@@ -1,1 +1,1 @@
-module "go-commons/greet"
+module "github.com/khangta/go-commons/greet"
