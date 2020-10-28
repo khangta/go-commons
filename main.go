@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-commons/greet"
+	"./greet"
 	"fmt"
 )
 
